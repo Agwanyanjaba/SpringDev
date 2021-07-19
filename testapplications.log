@@ -1,0 +1,20 @@
+2021-07-15 14:25:44.183  INFO 32476 --- [main] com.blackbox.tests.TestsApplication      : Starting TestsApplication using Java 16.0.1 on ITR5CG82328Y9 with PID 32476 (E:\Spring Apps\BlackBox\target\classes started by KEN20198 in E:\Spring Apps\BlackBox)
+2021-07-15 14:25:44.185  INFO 32476 --- [main] com.blackbox.tests.TestsApplication      : No active profile set, falling back to default profiles: default
+2021-07-15 14:25:44.810  INFO 32476 --- [main] com.blackbox.tests.TestsApplication      : Started TestsApplication in 1.111 seconds (JVM running for 1.691)
+2021-07-15 14:34:11.013  INFO 15620 --- [main] com.blackbox.tests.TestsApplication      : Starting TestsApplication using Java 16.0.1 on ITR5CG82328Y9 with PID 15620 (E:\Spring Apps\BlackBox\target\classes started by KEN20198 in E:\Spring Apps\BlackBox)
+2021-07-15 14:34:11.019  INFO 15620 --- [main] com.blackbox.tests.TestsApplication      : No active profile set, falling back to default profiles: default
+2021-07-15 14:34:11.626  INFO 15620 --- [main] com.blackbox.tests.TestsApplication      : Started TestsApplication in 1.159 seconds (JVM running for 1.741)
+2021-07-15 14:34:40.110  INFO 3408 --- [main] com.blackbox.tests.TestsApplication      : Starting TestsApplication using Java 16.0.1 on ITR5CG82328Y9 with PID 3408 (E:\Spring Apps\BlackBox\target\classes started by KEN20198 in E:\Spring Apps\BlackBox)
+2021-07-15 14:34:40.111  INFO 3408 --- [main] com.blackbox.tests.TestsApplication      : No active profile set, falling back to default profiles: default
+2021-07-15 14:34:40.584  INFO 3408 --- [main] com.blackbox.tests.TestsApplication      : Started TestsApplication in 0.853 seconds (JVM running for 1.637)
+2021-07-15 14:35:37.183  INFO 24672 --- [main] com.blackbox.tests.TestsApplication      : Starting TestsApplication using Java 16.0.1 on ITR5CG82328Y9 with PID 24672 (E:\Spring Apps\BlackBox\target\classes started by KEN20198 in E:\Spring Apps\BlackBox)
+2021-07-15 14:35:37.186  INFO 24672 --- [main] com.blackbox.tests.TestsApplication      : No active profile set, falling back to default profiles: default
+2021-07-15 14:35:37.798  INFO 24672 --- [main] com.blackbox.tests.TestsApplication      : Started TestsApplication in 1.125 seconds (JVM running for 1.672)
+2021-07-15 14:42:12.027  INFO 40600 --- [main] com.blackbox.tests.TestsApplication      : Starting TestsApplication using Java 16.0.1 on ITR5CG82328Y9 with PID 40600 (E:\Spring Apps\BlackBox\target\classes started by KEN20198 in E:\Spring Apps\BlackBox)
+2021-07-15 14:42:12.031  INFO 40600 --- [main] com.blackbox.tests.TestsApplication      : No active profile set, falling back to default profiles: default
+2021-07-15 14:42:12.635  INFO 40600 --- [main] com.blackbox.tests.TestsApplication      : Started TestsApplication in 1.127 seconds (JVM running for 1.689)
+2021-07-15 14:42:17.906  INFO 40600 --- [main] com.blackbox.tests.TestsApplication      : |ID|{DATE}|>>>>>>>|Logging info
+2021-07-15 14:44:59.925  INFO 33212 --- [main] com.blackbox.tests.TestsApplication      : Starting TestsApplication using Java 16.0.1 on ITR5CG82328Y9 with PID 33212 (E:\Spring Apps\BlackBox\target\classes started by KEN20198 in E:\Spring Apps\BlackBox)
+2021-07-15 14:44:59.927  INFO 33212 --- [main] com.blackbox.tests.TestsApplication      : No active profile set, falling back to default profiles: default
+2021-07-15 14:45:00.556  INFO 33212 --- [main] com.blackbox.tests.TestsApplication      : Started TestsApplication in 1.107 seconds (JVM running for 1.694)
+2021-07-15 14:45:05.080  INFO 33212 --- [main] com.blackbox.tests.TestsApplication      : |ID|{DATE}|>>>>>>>|Logging info
